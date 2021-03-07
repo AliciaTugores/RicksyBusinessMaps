@@ -27,7 +27,7 @@ public class RicksyBusiness {
          * El coste del ovni es de 500 EZIs.
          */
 
- /*       UfosPark ufosPark = new UfosPark();
+       UfosPark ufosPark = new UfosPark();
 
         // Da de alta en la flota de ovnis 2 UFOS.
 
@@ -100,7 +100,7 @@ public class RicksyBusiness {
         ufosPark.add("trex");
         System.out.println(ufosPark);
 
-
+/*
         /**
          * Construye el dispensador de packs de bienvenida.
          * Indica el numero de unidades y el coste de cada
