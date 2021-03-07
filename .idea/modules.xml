@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RicksyBusiness/RicksyBusiness.iml" filepath="$PROJECT_DIR$/RicksyBusiness/RicksyBusiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RicksyBusinessMaps.iml" filepath="$PROJECT_DIR$/.idea/RicksyBusinessMaps.iml" />
+    </modules>
+  </component>
+</project>
