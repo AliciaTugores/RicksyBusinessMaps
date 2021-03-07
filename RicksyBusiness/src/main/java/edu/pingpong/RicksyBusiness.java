@@ -195,8 +195,8 @@ public class RicksyBusiness {
          * invitados/as que han hecho un pedido.
          */
 
-        // tu código aquí
-       /*RickMenuDispatcher MenuDispatcher = new RickMenuDispatcher();
+
+       RickMenuDispatcher MenuDispatcher = new RickMenuDispatcher();
 
         receptivo.registra(MenuDispatcher);
 
@@ -215,8 +215,7 @@ public class RicksyBusiness {
 
         for (CreditCard card: cards) {
             System.out.println(card);
-            System.out.println();
-        }*/
+        }
     }
 
     private static void mostrarReserva(CreditCard card, CrystalExpender expender, UfosPark ufos) {
